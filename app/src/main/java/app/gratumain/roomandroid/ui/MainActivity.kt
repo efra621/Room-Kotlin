@@ -20,6 +20,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 class
 MainActivity : AppCompatActivity() {
 
+    //Primer comentario
     private lateinit var viewModel: ViewModel
 
     override fun onCreate(savedInstanceState: Bundle?) {
